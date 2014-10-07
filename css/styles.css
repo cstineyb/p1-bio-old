@@ -1,5 +1,22 @@
 /* Your Website Styles */
+body {background:   url("../img/bg.png") #C5C99F;
+}
 
+h1	{
+	font-family: 'Oswald', cursive;
+	color: #A39FC9;
+	font-style: italic;
+
+	background: red;
+	padding: 10px;
+	border: 10px black double;
+	width: 300px;
+	margin: -10px;
+}
+
+	p {
+		line-height: 36px;
+	} 
 
 /* Show Grid */
 .showgrid {
