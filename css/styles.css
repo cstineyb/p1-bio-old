@@ -13,6 +13,22 @@ h1	{
 	width: 300px;
 	margin: -10px;
 }
+h3	{
+	color:red;
+}
+h4  {
+	color: purple;
+}
+.name	{
+	font-variant: small-caps;
+}
+#leadin		{
+	color: blue;
+}
+.subhead  {
+	font-style: italic;
+	margin-left: 30px;
+}
 
 	p {
 		line-height: 36px;
